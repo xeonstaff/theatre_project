@@ -1,0 +1,77 @@
+header{
+    background-color: black;
+}
+
+.maintitle{
+    color:rgba(255, 255, 255, 0.801);
+    font-family:'times new roman' !important;
+    font-size: 2em;
+}
+
+.navbar a, .navbar-nav, li, ul {
+    color:rgba(255, 255, 255, 0.801) !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url('hero_image.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+.bgimage h5 {
+    color:white;
+    text-shadow:2px 2px #333;
+}
+
+.shwifty button{
+    background-color:#EBB624;
+    border: 1px solid #8c6c14;
+    color:white;
+    font: 12px;
+    padding:6px;
+    width:100px;
+    height:40px;
+    align-self:center;
+}
+
+.shwifty h4{
+    font-weight:50;
+}
+
+.shwifty{
+    display:flex;
+}
+
+body{
+    font-family:'Nanum Myeongjo', serif;
+}
+
+
+.text2{
+    font-weight:800;
+    font-size:16px;
+}
+
+.shwifty{
+    display:inline;
+    justify-content:center;
+}
+
+.shwiftypic{
+    height:150px;
+    width:210px;
+}
+
+.footer{
+    background-color:black !important;
+}
+
+iframe{
+    width:20vw;
+    height:15vw;
+}
